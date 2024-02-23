@@ -1,0 +1,9 @@
+.carta-menu .card-img {
+    width: auto; 
+    height: 250px; 
+    object-fit: cover; 
+  }
+.carta-menu{
+    
+    margin-top: 40px;
+}
